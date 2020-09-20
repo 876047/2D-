@@ -5,7 +5,7 @@
  
 ![알파마스크](https://user-images.githubusercontent.com/71231278/93719775-af80ca80-fbbf-11ea-9276-9bea84898b2a.png)
 
-[그림 1] 스트레이트 알파와 프리멀티플라이드 알파(출처: https://limnu.com/premultiplied-alpha-primer-artists/)
+[그림 1] 스트레이트 알파와 프리멀티플라이드 알파(이미지 출처: https://limnu.com/premultiplied-alpha-primer-artists/)
 
 
 # 색이란 무엇인가?(What is color)?
@@ -18,7 +18,7 @@
 
 ![색상환](https://user-images.githubusercontent.com/71231278/93719021-dc7eae80-fbba-11ea-9c36-eaaf99795c5a.png)
 
-[그림2] 색상환
+[그림2] 색상환(이미지 출처: https://commons.wikimedia.org/wiki/File:MunsellColorWheel.svg)
 
 **명도**
 
@@ -34,7 +34,7 @@
 
 ![채도](https://user-images.githubusercontent.com/71231278/93719274-5feccf80-fbbc-11ea-993a-5c8b053ce01f.png)
 
-[그림4] 채도
+[그림4] 채도(이미지 출처: https://en.wikipedia.org/wiki/File:Red_saturations.svg)
 
 ## 색 조합 원리 
 
@@ -62,12 +62,23 @@
 ## 디지털 색상
 
 * RGB 
+
 인쇄해야 하는 결과물을 작업할 때는 CMYK가 주로 사용되는 반면 디지털 화면에서 전시되는 결과물을 작업할 때에는 RGB 색 모델이 주로 사용된다. RGB 모델은 우리 눈이 빛을 인식하는 것과 비슷한 원리로 작동하여 폭 넓게 사용되지만, 원하는 색을 직관적으로 찾기 어렵다는 단점이 있다. RGB 색 모델에서는 0~255까지의 값을 가지는 각각의 R, G, B 채널을 조합해서 색상을 만든다.  
+[RGB](https://user-images.githubusercontent.com/71231278/93721038-4f425680-fbc8-11ea-89d4-b1b85f74e99b.png)
+
+[그림6] RGB 색 모델 (이미지 출처: https://en.wikipedia.org/wiki/File:RGB_color_solid_cube.png)
 
 * HSL
 
+ RGB 색 모델보다 직관적으로 색을 고를 수 있도록 만들어진 색 모델. 색의 특성인 Hue(색상), Saturation(채도), Luminance(밝기)를 활용하여 색을 나타낸다. 유사한 색 모델로는 HSV 등이 있다. 
+ 
+![HSL색모델](https://user-images.githubusercontent.com/71231278/93721400-ef00e400-fbca-11ea-8937-8e5d6d241dd3.png)
+
+[그림7] 클립 스튜디오에서의 HSL 색 모델 컬러써클
+
 ## 참고자료
-https://terms.naver.com/entry.nhn?docId=1164243&cid=40942&categoryId=32322
-https://terms.naver.com/entry.nhn?docId=960339&cid=47310&categoryId=47310
-https://youtu.be/0DXZvcfPVrk
-David Hart
+
+David Hart, 2016, WHAT IS PREMULTIPLIED ALPHA? A PRIMER FOR ARTISTS., Retrieved from https://limnu.com/premultiplied-alpha-primer-artists/
+Khan Academy Labs, 2016, What is the "Color" we saying?, Retrieved from https://www.youtube.com/watch?v=0DXZvcfPVrk&list=PLP8UjARyH0gV5JUFrCeWQTpvt959NhfNH&index=65
+Khan Academy Labs, 2019, RGB color Model, Retrieved from https://youtu.be/T0jzClmP2pc
+Khan Academy Labs, 2019, HSL color Model, Retrieved from https://youtu.be/Ceur-ARJ4Wc
