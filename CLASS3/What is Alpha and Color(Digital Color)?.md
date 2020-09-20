@@ -18,11 +18,15 @@
 
 ![색상환](https://user-images.githubusercontent.com/71231278/93719021-dc7eae80-fbba-11ea-9c36-eaaf99795c5a.png)
 
+[그림2] 색상환
+
 **명도**
 
 색의 세 가지 특성 중 하나이다. 명도의 단계로 색이 얼마나 밝고 어두운지 나타낼 수 있다. 흰 색에 가까울수록 명도가 높고 검은색에 가까울수록 명도가 낮다. 
 
 ![명도](https://user-images.githubusercontent.com/71231278/93719228-0ab0be00-fbbc-11ea-9115-3cdc526e4c8e.jpg)
+
+[그림3] 명도
 
 **채도** 
 
@@ -30,6 +34,7 @@
 
 ![채도](https://user-images.githubusercontent.com/71231278/93719274-5feccf80-fbbc-11ea-993a-5c8b053ce01f.png)
 
+[그림4] 채도
 
 ## 색 조합 원리 
 
@@ -37,14 +42,20 @@
 
 ![가산 혼합](https://user-images.githubusercontent.com/71231278/93720064-a7c22580-fbc1-11ea-9362-719c4a4d9da7.png)
 
+[그림5] 가산 혼합(이미지 출처: https://99designs.com/blog/tips/correct-file-formats-rgb-and-cmyk/)
+
 가산 혼합은 광원을 사용하여 색을 조합할 때 나타난다. 빨강, 초록, 파랑의 광원의 조합을 통해 다양한 색상을 만들어낼 수 있다. 가산 혼합 방식을 사용하는 대표적안 색 모델로는 RGB 색 모델이 있다.  
 
 
 * 감산 혼합
 
-
 ![감산 혼합](https://user-images.githubusercontent.com/71231278/93720062-a42e9e80-fbc1-11ea-877b-8ca2ad45bfb5.png)
-감산 혼합은 잉크나 물감등을 통해 색을 조합할 때 나타난다. 시안, 마젠타, 노랑을 이용하여 다양한 색상을 만들어낸다. 감산 혼합 방식을 사용하는 대표적인 색 모델로는 CMYK 색 모델이 있다. 
+
+[그림6] 감산 혼합 (이미지 출처: https://99designs.com/blog/tips/correct-file-formats-rgb-and-cmyk/)
+
+
+
+감산 혼합은 잉크나 물감 등을 통해 색을 조합할 때 나타난다. 시안, 마젠타, 노랑을 이용하여 다양한 색상을 만들어낸다. 감산 혼합 방식을 사용하는 대표적인 색 모델로는 CMYK 색 모델이 있다. 
 
 
 
