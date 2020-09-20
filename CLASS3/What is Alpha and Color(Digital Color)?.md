@@ -37,17 +37,17 @@
 
 ![가산 혼합](https://user-images.githubusercontent.com/71231278/93720064-a7c22580-fbc1-11ea-9362-719c4a4d9da7.png)
 
->빛을 가하여 색을 혼합할 때, 혼합한 색이 원래의 색보다 밝아지는(명도가 높아지는) 혼합.
-https://terms.naver.com/entry.nhn?docId=1054746&cid=40942&categoryId=33048
+가산 혼합은 광원을 사용하여 색을 조합할 때 나타난다. 빨강, 초록, 파랑의 광원의 조합을 통해 다양한 색상을 만들어낼 수 있다. 가산 혼합 방식을 사용하는 대표적안 색 모델로는 RGB 색 모델이 있다.  
+
+
 * 감산 혼합
 
 
 ![감산 혼합](https://user-images.githubusercontent.com/71231278/93720062-a42e9e80-fbc1-11ea-877b-8ca2ad45bfb5.png)
+감산 혼합은 잉크나 물감등을 통해 색을 조합할 때 나타난다. 시안, 마젠타, 노랑을 이용하여 다양한 색상을 만들어낸다. 감산 혼합 방식을 사용하는 대표적인 색 모델로는 CMYK 색 모델이 있다. 
 
->혼합색이 원래의 색보다 명도(明度)가 낮아지도록 색을 혼합하는 방법.
-https://terms.naver.com/entry.nhn?docId=1056533&cid=40942&categoryId=33048
 
-## 색의 속성
+
 
 ## 디지털 색상
 
