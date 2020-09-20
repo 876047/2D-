@@ -7,7 +7,26 @@
 
 
 # 색이란 무엇인가?(What is color)?
-빛의 파장에 대한 눈의 반응으로 색상, 명도, 채도의 속성을 가지는 것
+
+>빛의 파장에 대한 눈의 반응으로 색상, 명도, 채도의 속성을 가지는 것
+
+
+## 색을 인지하는 원리 
+우리 눈은 세 가지 종류의 원추세포를 통해 시각적 자극을 인지하게 된다. 
+## 색 조합 원리 
+
+## 색의 속성
+* 색상
+* 명도
+* 채도 
+
+## 디지털 색상이란?
+ 
+* RGB 
+* CMYK
+반면 출판에서는 CMYK 
 
 참고자료
+https://terms.naver.com/entry.nhn?docId=1164243&cid=40942&categoryId=32322
 https://terms.naver.com/entry.nhn?docId=960339&cid=47310&categoryId=47310
+https://youtu.be/0DXZvcfPVrk
