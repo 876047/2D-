@@ -59,15 +59,14 @@
 
 
 
-
 ## 디지털 색상
 
 * RGB 
-* CMYK
-반면 출판에서는 CMYK 
+인쇄해야 하는 결과물을 작업할 때는 CMYK가 주로 사용되는 반면 디지털 화면에서 전시되는 결과물을 작업할 때에는 RGB 색 모델이 주로 사용된다. RGB 모델은 우리 눈이 빛을 인식하는 것과 비슷한 원리로 작동하여 폭 넓게 사용되지만, 원하는 색을 직관적으로 찾기 어렵다는 단점이 있다. RGB 색 모델에서는 0~255까지의 값을 가지는 각각의 R, G, B 채널을 조합해서 색상을 만든다.  
+
 * HSL
 
-참고자료
+## 참고자료
 https://terms.naver.com/entry.nhn?docId=1164243&cid=40942&categoryId=32322
 https://terms.naver.com/entry.nhn?docId=960339&cid=47310&categoryId=47310
 https://youtu.be/0DXZvcfPVrk
