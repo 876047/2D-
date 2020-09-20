@@ -32,16 +32,19 @@ https://terms.naver.com/entry.nhn?docId=1056533&cid=40942&categoryId=33048
 **색상**
 
 색의 세 가지 특성 중 하나이다. 색상환 중 어디에 위치하는가로 나타낼 수 있다. 
+
 ![색상환](https://user-images.githubusercontent.com/71231278/93719021-dc7eae80-fbba-11ea-9c36-eaaf99795c5a.png)
 
 **명도**
 
 색의 세 가지 특성 중 하나이다. 명도의 단계로 색이 얼마나 밝고 어두운지 나타낼 수 있다. 흰 색에 가까울수록 명도가 높고 검은색에 가까울수록 명도가 낮다. 
+
 ![명도](https://user-images.githubusercontent.com/71231278/93719228-0ab0be00-fbbc-11ea-9115-3cdc526e4c8e.jpg)
 
 **채도** 
 
 색의 세 가지 특성 중 하나이다. 색상이 얼마나 선명한지 나타낼 수 있다. 채도가 낮은 색일수록 회색에 가깝고, 채도가 높은 색일수록 형광에 가깝다.   
+
 ![채도](https://user-images.githubusercontent.com/71231278/93719274-5feccf80-fbbc-11ea-993a-5c8b053ce01f.png)
 
 ## 디지털 색상
