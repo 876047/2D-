@@ -10,9 +10,25 @@
  표준관찰자가 표준 광량을 기준으로 받아들이는 정도를  과학적 방법을 통해 관측하여 계산된 색 공간이다.
  
  
+ [그림1]
+ 
+ 
+ ![이미지1](https://user-images.githubusercontent.com/71231278/94376499-dc038c00-0155-11eb-9ce1-30c79ca72ef1.png)
+ 
+ 
+ (이미지 출처: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/CIExy1931.svg/489px-CIExy1931.svg.png)
+ 
+ 
  RGB 색공간은 디지털 공간에서 색을 표현할 때 가장 보편적으로 사용되는 색 공간이다.
  빨강(Red), 초록(Green), 파랑(Blue)을 혼합하여 색을 표현한다. 대표적인 RGB 색 공간으로는 sRGB(standard RGB), 애플 RGB, 어도비 RGB 등이 있다. 
  
+ 
+ [그림2]
+ 
+![이미지2](https://user-images.githubusercontent.com/71231278/94376586-5c29f180-0156-11eb-9477-552dcafa0702.png)
+
+
+(이미지 출처: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cie_Chart_with_sRGB_gamut_by_spigget.png/330px-Cie_Chart_with_sRGB_gamut_by_spigget.png)
  
  그 외에도 YUV, ACES 등의 다양한 색 공간이 있다. 
  YUV 색 공간은 비디오에서 주로 사용된다. Y(밝기), U,V(색) 값을 통해 색을 나타낸다.
@@ -85,6 +101,8 @@ https://youtu.be/lzImtOVx5QI
 
 
 6) 송낙원,  "디지털 영화제작에서 창조적 색 재현을 위한 룩업테이블(LUT) 기술 연구", 영상기술연구 2018, vol.1, no.28, 통권 28호 9
+
+
 
 
 [참고 문헌]
