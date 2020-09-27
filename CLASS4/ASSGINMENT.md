@@ -10,7 +10,7 @@
  표준관찰자가 표준 광량을 기준으로 받아들이는 정도를  과학적 방법을 통해 관측하여 계산된 색 공간이다.
  
  
- [그림1]
+ [그림1] CIE XYZ 색 공간 색 
  
  
  ![이미지1](https://user-images.githubusercontent.com/71231278/94376499-dc038c00-0155-11eb-9ce1-30c79ca72ef1.png)
@@ -23,7 +23,7 @@
  빨강(Red), 초록(Green), 파랑(Blue)을 혼합하여 색을 표현한다. 대표적인 RGB 색 공간으로는 sRGB(standard RGB), 애플 RGB, 어도비 RGB 등이 있다. 
  
  
- [그림2]
+ [그림2] sRGB 색 공간 색 영역
  
 ![이미지2](https://user-images.githubusercontent.com/71231278/94376586-5c29f180-0156-11eb-9477-552dcafa0702.png)
 
@@ -53,6 +53,39 @@
  
  일반적으로 컴퓨터 모니터에는 NTSC 표준 감마(감마2.2)가 적용되어 있다. 사진을 촬영할 때 데이터 파일에도 모니터에서 일어나는 감마 보정을 고려하여 원본 이미지보다 더 밝게 감마 보정된 이미지가 저장되므로 촬영하면서 확인한 이미지와 밝기 차이는 나타나지 않게 된다(감마 보정 작업을 통해 어두운 부분의 단계 변화는 더 자연스럽게 남는다).
  툴을 이용하는 합성 작업 시에 감마 보정을 고려하지 않으면 혼란이 일어나기 쉬우므로 감마 보정에 대한 기본적인 이해가 필요하다. 감마 보정 이외에도 디지털 아티스트들은 원하는 이미지를 정확히 표현하기 위해  Offset correction, Gain correction, Contrast correction, Clamp correction 등의 다양한 보정 작업을 한다. 각자의 그래프는 다음과 같다. 
+ 
+ 
+[그림3] Offset correction
+
+![그림3](https://user-images.githubusercontent.com/71231278/94376673-eeca9080-0156-11eb-853b-b128ede32730.png)
+
+
+(이미지 출처: https://digitalidea.gitbook.io/nuke/basic/colortheory/colorcorrection)
+
+
+[그림4] Gain correction
+
+![그림4](https://user-images.githubusercontent.com/71231278/94376672-eeca9080-0156-11eb-9d92-b47aae84aaf3.png)
+
+
+(이미지 출처: https://digitalidea.gitbook.io/nuke/basic/colortheory/colorcorrection)
+
+
+[그림4] Contrast correction
+
+![그림4](https://user-images.githubusercontent.com/71231278/94376669-ee31fa00-0156-11eb-9a16-9be3b8fcaad2.png)
+
+
+(이미지 출처: https://digitalidea.gitbook.io/nuke/basic/colortheory/colorcorrection)
+
+
+[그림5] Clamp correction 
+
+![그림5](https://user-images.githubusercontent.com/71231278/94376668-ed00cd00-0156-11eb-94d7-fd56deb36b0a.png)
+
+
+(이미지 출처: https://digitalidea.gitbook.io/nuke/basic/colortheory/colorcorrection)
+
 
 # What is LUT? Color LookUpTable ?
 
@@ -64,7 +97,18 @@ https://youtu.be/lzImtOVx5QI
  LUT란 Color LookUpTable의 약자이다. 비디오에 적용하여 룩을 변경할 수 있는 고정된 숫자 값의 테이블<sup>3을 의미한다. 간단하고 쉽게 이미지의 느낌을 살리기 위해 자주 쓰이지만, 다양한 보정에서 활용될 수 있다. 후반 작업에서 주로 사용된다.  
 
 ## LUT의 종류
- LUT는 1D LUTs(평면 룩업테이블), 3D LUTs(입체 룩업 테이블) 등으로 크게 구분할 수 있다. 아래 이미지는 각각 평면 룩업테이블과 입체 룩업 테이블을 나타낸 것이다. 1D 룩업테이블은 옵셋,게인,감마,채도,콘트라스트등 정보가 전체적으로 저장된 파일<sup>4이다. 단순한 보정 작업에 쓰인다. 3D 룩업테이블은 이미지의 암부, 미들톤, 하일라이트 각각의 옵셋, 게인, 감마, 채도, 콘트라스트등 정보가 저장된 파일<sup>5로 1D 룩업 테이블 보다 섬세한 보정 작업에 쓰인다. 또한 후반작업 공정에서 로그 영상 이미지나 촬영된 영상을 Rec.709와 같은 HD급 영상의 색 공간으로 표준화하거나 톤 매핑하는 데<sup>6에도 사용될 수 있다. 일반적으로 이야기하는 LUT란 3D LUT를 의미한다. 
+ LUT는 1D LUTs(평면 룩업테이블), 3D LUTs(입체 룩업 테이블) 등으로 크게 구분할 수 있다. 아래 이미지는 각각 평면 룩업테이블과 입체 룩업 테이블을 나타낸 것이다. 1D 룩업테이블은 옵셋,게인,감마,채도,콘트라스트등 정보가 전체적으로 저장된 파일<sup>4
+이다. 단순한 보정 작업에 쓰인다. 3D 룩업테이블은 이미지의 암부, 미들톤, 하일라이트 각각의 옵셋, 게인, 감마, 채도, 콘트라스트등 정보가 저장된 파일<sup>5
+로 1D 룩업 테이블 보다 섬세한 보정 작업에 쓰인다. 또한 후반작업 공정에서 로그 영상 이미지나 촬영된 영상을 Rec.709와 같은 HD급 영상의 색 공간으로 표준화하거나 톤 매핑하는 데<sup>6에도 사용될 수 있다. 일반적으로 이야기하는 LUT란 3D LUT를 의미한다. 
+ 
+[그림6] 평면 룩업테이블과 입체 룩업 테이블
+
+
+![그림6](https://user-images.githubusercontent.com/71231278/94376924-96948e00-0158-11eb-9099-4b050ff14777.jpg)
+
+
+(이미지 출처: https://fixthephoto.com/blog/UserFiles/1d-lut-vs-3d-lut.jpg)
+
 
 ## LUT의 적용 
  대표적인 LUT의 확장자는 3DL, CUBE 등이 있으며 이외에도 blut, csp, cub, vf 등으로 그 종류가 많다. LUT는 어도비 포토샵, 어도비 프리미어, 어도비 애프터 이펙트, 다빈치 리졸브, 파이널 컷 등 다양한 툴에서 적용 된다. 아래 링크는 무료로 제공되고 있는 LUT 팩을 모은 리스트이다.   
