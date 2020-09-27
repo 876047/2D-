@@ -91,44 +91,48 @@ https://youtu.be/lzImtOVx5QI
 
 [참고자료]
 
-색공간
+김도훈(2014), 『비디오 코덱과 동영상 포맷』, 커뮤니케이션북스 
 https://terms.naver.com/entry.nhn?docId=3340383&cid=58161&categoryId=58161
 
-CIE 표준 표색계 
+패션전문자료편찬위원회(1997), 패션전문자료사전, 한국사전연구사  
 https://terms.naver.com/entry.nhn?docId=282452&cid=42822&categoryId=42822
 
-CIE 1931 색 공간
+두산백과(연도미상), CIE 1931 색 공간, 2020. 9. 27. 검색
 https://terms.naver.com/entry.nhn?docId=3389796&ref=y&cid=40942&categoryId=32433
 
-https://blog.naver.com/kcw767/221014850359
 
-CIE 1931 색공간-CIE XYZ
+꿈꾸는 자(2010), CIE 1931 색공간-CIE XYZ, 2020. 9. 27. 검색
 https://blog.naver.com/nav153/40112854429
 
-색공간이 뭐지? RGB YUV
+ComDoc(2013), 색공간이 뭐지? RGB YUV, 2020. 9. 27. 검색
 https://comdoc.tistory.com/entry/%EC%83%89%EA%B3%B5%EA%B0%84%EC%9D%B4-%EB%AD%90%EC%A7%80-RGB-YUV
-YUV
+
+저자미상, YUV, 2020. 9. 27. 검색
 https://ko.wikipedia.org/wiki/YUV
 
-감마 보정
+저자 미상, 감마 보정, 2020. 9. 27. 검색
 (https://ko.wikipedia.org/wiki/%EA%B0%90%EB%A7%88_%EB%B3%B4%EC%A0%95)
 
-감마가 어디감마
+정종필(2018), Gamma 가 어디 Gamma, 2020. 9. 27. 검색
 https://chulin28ho.tistory.com/477
+
+mnkpr(2019), 전문 컬러리스트와 영화 제작자가 제공하는 129가지 무료 시네마틱 LUT, 2020. 9. 27. 검색 
 https://www.shutterstock.com/ko/blog/129-free-cinematic-luts/
 
+소니코리아(연도미상), LUT 라이브러리 온셋 모니터링 및 컬러 그레이딩을 위한 소니 및 타사의 대조 테이블(LUT, Look-Up-Table), 2020. 9. 27. 검색 
 https://pro.sony/ko_KR/technology/professional-video-lut-look-up-table
 
+ADSTORE(2016), Color Lookup Table 이용한 특별한 포토샵 필터 적용하기, 2020. 9. 27. 검색  
 https://adstorepost.com/164 
 
+Steve Fairclough(2019), HOW TO... What is a LUT in video?, 2020. 9. 27. 검색  
 https://camerajabber.com/what-is-a-lut-in-video/
 
+JINNY(2020), 이미지 보정기능 1. LUT란 무엇일까요?, 2020. 9. 27. 검색 
 https://visionblog.vieworks.com/knowledge/camera-n-sensor/what-is-lut/
 
-https://adstorepost.com/164
-
-우리는 로그(Log)를 알고 있는가? 1편
+BARIM FILM(2017), 우리는 로그(Log)를 알고 있는가? 1편, 2020. 9. 27. 검색 
 https://m.blog.naver.com/theriel/221079507331
 
-우리는 로그(Log)를 알고 있는가? 2편
+BARIM FILM(2017), 우리는 로그(Log)를 알고 있는가? 2편, 2020. 9. 27. 검색 
 https://m.blog.naver.com/theriel/221077501142
