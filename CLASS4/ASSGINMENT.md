@@ -66,6 +66,29 @@ https://youtu.be/lzImtOVx5QI
  로그 촬영을 할 때는 일반적으로 후보정을 전제로 한다. 명부와 암부의 디테일이 후보정 작업에 중요할 때, 로그 촬영을 하고 색보정을 하는 것이 도움이 될 수 있다. 
 
 
+[각주]
+
+
+1)
+
+
+2)
+
+
+3)
+
+
+4)
+
+
+5)
+
+
+6)
+
+
+7)
+
 [참고자료]
 
 색공간
@@ -94,10 +117,18 @@ https://ko.wikipedia.org/wiki/YUV
 https://chulin28ho.tistory.com/477
 https://www.shutterstock.com/ko/blog/129-free-cinematic-luts/
 
-
 https://pro.sony/ko_KR/technology/professional-video-lut-look-up-table
-출처: https://adstorepost.com/164 [ADSTORE]
-출처 ; https://camerajabber.com/what-is-a-lut-in-video/
+
+https://adstorepost.com/164 
+
+https://camerajabber.com/what-is-a-lut-in-video/
+
 https://visionblog.vieworks.com/knowledge/camera-n-sensor/what-is-lut/
 
 https://adstorepost.com/164
+
+우리는 로그(Log)를 알고 있는가? 1편
+https://m.blog.naver.com/theriel/221079507331
+
+우리는 로그(Log)를 알고 있는가? 2편
+https://m.blog.naver.com/theriel/221077501142
