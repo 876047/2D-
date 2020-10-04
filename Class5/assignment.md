@@ -45,7 +45,7 @@
 [그림5] 명도 대비(이미지 출처: http://dlegongbuwarac.edupia.com/xmlPrint.aspx?did=21250)
 
 
-!이미지5](https://user-images.githubusercontent.com/71231278/95024553-a3683300-06be-11eb-994b-76921c52dc42.jpg)
+![이미지5](https://user-images.githubusercontent.com/71231278/95024553-a3683300-06be-11eb-994b-76921c52dc42.jpg)
 
 
 ## 선예도(Sharpness)
@@ -57,3 +57,42 @@
 일반적으로 화상의 선예도가 높을수록 시선이 집중된다.
 화상의 선예도는 주로 해상도(resolution)와 첨예도(acutance)에 의해 결정된다. 해상도란 한 사진에 담아내는 화소 수를 일컫는 말이다.
 해상도가 높아질수록 이미지가 정밀해진다. 첨예도란 경계면의 구분이 명확한 정도를 나타낸다. 해상도와 첨예도에 따른 선예도의 차이는 다음 사진에서 확인할 수 있다. 
+
+
+![이미지6](https://user-images.githubusercontent.com/71231278/95025254-55096300-06c3-11eb-8d68-f11460572af9.jpg)"높은 첨예도, 낮은 해상도"
+
+
+[그림6] 높은 첨예도, 낮은 해상도(이미지 출처: https://www.cambridgeincolour.com/tutorials/sharpness.htm)
+
+
+![이미지7](https://user-images.githubusercontent.com/71231278/95025252-53d83600-06c3-11eb-905a-58e5f3f5fe96.jpg)"낮은 첨예도, 높은 해상도"
+
+
+[그림7] 낮은 첨예도, 높은 해상도(이미지 출처: https://www.cambridgeincolour.com/tutorials/sharpness.htm)
+
+
+![이미지8](https://user-images.githubusercontent.com/71231278/95025250-52a70900-06c3-11eb-9685-413417e0b75a.jpg)"높은 첨예도, 높은 해상도"
+
+
+[그림8] 높은 첨예도, 높은 해상도(이미지 출처: https://www.cambridgeincolour.com/tutorials/sharpness.htm)
+
+
+주석
+
+
+1) [네이버 지식백과] 명도 [Value, 明度] (두산백과)
+https://terms.naver.com/entry.nhn?cid=40942&docId=1093128&categoryId=32238
+
+
+2)[네이버 지식백과] 콘트라스트 [contrast, contraste, Kontrast] (미술대사전(용어편), 1998., 한국사전연구사 편집부)
+https://terms.naver.com/entry.nhn?docId=264120&cid=42635&categoryId=42635
+
+
+3) [네이버 지식백과] 선예도 [sharpness, 鮮銳度] (영화사전, 2004. 9. 30., propaganda)
+https://terms.naver.com/entry.nhn?cid=42617&docId=349459&categoryId=42617
+
+참고문헌
+
+
+올페 http://blog.naver.com/olivepage/140124175661
+선예도, 첨예도, 해상도의 관계(번역글)https://blog.naver.com/corba20/80186019512
