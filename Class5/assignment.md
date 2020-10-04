@@ -48,6 +48,11 @@
 ![이미지5](https://user-images.githubusercontent.com/71231278/95024553-a3683300-06be-11eb-994b-76921c52dc42.jpg)
 
 
+아래는 질감대비의 예시 사진이다. 털이 부드러워보이는 인형이 표면이 매끄러운 잎들 사이에 있어 더욱 존재감이 두드러진다.  
+
+![이미지5-2]https://user-images.githubusercontent.com/71231278/95025391-6acb5800-06c4-11eb-8f56-6afb2b44644e.jpg
+
+
 ## 선예도(Sharpness)
 > 화상이 선명하게 보이는 정도.
 일반적으로 초점, 색채, 필름 입상성의 결과로서 화상 디테일이 명료한 정도를 말한다.
@@ -59,40 +64,43 @@
 해상도가 높아질수록 이미지가 정밀해진다. 첨예도란 경계면의 구분이 명확한 정도를 나타낸다. 해상도와 첨예도에 따른 선예도의 차이는 다음 사진에서 확인할 수 있다. 
 
 
-![이미지6](https://user-images.githubusercontent.com/71231278/95025254-55096300-06c3-11eb-8d68-f11460572af9.jpg)"높은 첨예도, 낮은 해상도"
+![이미지6](https://user-images.githubusercontent.com/71231278/95025254-55096300-06c3-11eb-8d68-f11460572af9.jpg)
 
 
-[그림6] 높은 첨예도, 낮은 해상도(이미지 출처: https://www.cambridgeincolour.com/tutorials/sharpness.htm)
+[그림7] 높은 첨예도, 낮은 해상도(이미지 출처: https://www.cambridgeincolour.com/tutorials/sharpness.htm)
 
 
-![이미지7](https://user-images.githubusercontent.com/71231278/95025252-53d83600-06c3-11eb-905a-58e5f3f5fe96.jpg)"낮은 첨예도, 높은 해상도"
+![이미지7](https://user-images.githubusercontent.com/71231278/95025252-53d83600-06c3-11eb-905a-58e5f3f5fe96.jpg)
 
 
-[그림7] 낮은 첨예도, 높은 해상도(이미지 출처: https://www.cambridgeincolour.com/tutorials/sharpness.htm)
+[그림8] 낮은 첨예도, 높은 해상도(이미지 출처: https://www.cambridgeincolour.com/tutorials/sharpness.htm)
 
 
-![이미지8](https://user-images.githubusercontent.com/71231278/95025250-52a70900-06c3-11eb-9685-413417e0b75a.jpg)"높은 첨예도, 높은 해상도"
+![이미지8](https://user-images.githubusercontent.com/71231278/95025250-52a70900-06c3-11eb-9685-413417e0b75a.jpg)
 
 
-[그림8] 높은 첨예도, 높은 해상도(이미지 출처: https://www.cambridgeincolour.com/tutorials/sharpness.htm)
+[그림9] 높은 첨예도, 높은 해상도(이미지 출처: https://www.cambridgeincolour.com/tutorials/sharpness.htm)
 
 
 주석
 
 
-1) [네이버 지식백과] 명도 [Value, 明度] (두산백과)
+1) [네이버 지식백과] 명도 [Value, 明度] (두산백과), 2020. 10. 04. 접속
 https://terms.naver.com/entry.nhn?cid=40942&docId=1093128&categoryId=32238
 
 
-2)[네이버 지식백과] 콘트라스트 [contrast, contraste, Kontrast] (미술대사전(용어편), 1998., 한국사전연구사 편집부)
+2)[네이버 지식백과] 콘트라스트 [contrast, contraste, Kontrast] (미술대사전(용어편), 1998., 한국사전연구사 편집부), 2020. 10. 04. 접속
 https://terms.naver.com/entry.nhn?docId=264120&cid=42635&categoryId=42635
 
 
-3) [네이버 지식백과] 선예도 [sharpness, 鮮銳度] (영화사전, 2004. 9. 30., propaganda)
+3) [네이버 지식백과] 선예도 [sharpness, 鮮銳度] (영화사전, 2004. 9. 30., propaganda), 2020. 10. 04. 접속
 https://terms.naver.com/entry.nhn?cid=42617&docId=349459&categoryId=42617
 
 참고문헌
 
 
-올페 http://blog.naver.com/olivepage/140124175661
-선예도, 첨예도, 해상도의 관계(번역글)https://blog.naver.com/corba20/80186019512
+올페(2011), [올페의 사진 강좌] 쨍한 사진, 선예도, 해상도, 첨예도 그리고 MTF 차트에 대해서, 2020. 10. 04. 검색
+http://blog.naver.com/olivepage/140124175661
+
+
+텍사스사진사(2013), 선예도, 첨예도, 해상도의 관계(번역글)https://blog.naver.com/corba20/80186019512, 2020. 10. 04. 검색
