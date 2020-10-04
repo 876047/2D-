@@ -7,13 +7,45 @@
 
 색이 밝을수록 명도는 높아진다. 예를 들어, 노랑은 다른 색상보다 높은 명도를 가지고 보라는 다른 색상보다 낮은 명도를 가진다. 색상과 채도 없이 밝기만 있는 색을 무채색이라고 말한다. 
 
+
+![이미지1](https://user-images.githubusercontent.com/71231278/93719228-0ab0be00-fbbc-11ea-9115-3cdc526e4c8e.jpg)
+
+
+[그림1] 명도 단계 변화 
+
+
+![이미지2](https://user-images.githubusercontent.com/71231278/93719021-dc7eae80-fbba-11ea-9c36-eaaf99795c5a.png)
+
+
+[그림2] 색상환(이미지 출처: https://commons.wikimedia.org/wiki/File:MunsellColorWheel.svg)
+ 
+
 ## 대비(Contrast)
 >미적대상에 있어서 양적 또는 질적으로 상호 대립하는 모든 요소가, 대립 그 자체에 의하여 일종의 통일을 형성하고 있는 것.
 통일에 있어서 다양한 존재의 하나인 경우로서 형체의 대조, 색채의 대조, 명암의 대조, 형체와 색채의 대조등 여러가지의 경우가 있다. <sup>2
 
 
 대비에 의하여 원래 있던 특성이 다 강조되어 나타나거나, 다른 효과가 만들어질 때도 대비 효과가 나타났다고 한다.
-대표적인 대비 효과는 명도대비가 있다. 상반된 질감으로도 대비 효과를 나타낼 수 있다. 아래는 대비 효과의 예시이다.
+대표적인 대비 효과는 명도 대비가 있다. 상반된 질감으로도 대비 효과를 나타낼 수 있다. 아래는 대비 효과의 예시이다.
+
+
+![이미지3](https://user-images.githubusercontent.com/71231278/95024552-a3683300-06be-11eb-87bc-f78af95aa24f.png)
+
+
+[그림3] 체커 그림자 착시(이미지 출처: https://ko.wikipedia.org/wiki/%EC%B2%B4%EC%BB%A4_%EA%B7%B8%EB%A6%BC%EC%9E%90_%EC%B0%A9%EC%8B%9C)  
+
+
+![이미지4](https://user-images.githubusercontent.com/71231278/95024551-a2cf9c80-06be-11eb-9577-c76fd30bcb12.png)
+
+
+[그림4] 체커 그림자 착시(이미지 출처: https://ko.wikipedia.org/wiki/%EC%B2%B4%EC%BB%A4_%EA%B7%B8%EB%A6%BC%EC%9E%90_%EC%B0%A9%EC%8B%9C)  
+
+그림3의 A와 B는 얼핏 보면 다른 색처럼 보인다. 그림4를 보면 사실 둘은 같은 색이라는 것을 알 수 있다. 이런 착시가 일어나는 것은 명도대비 때문이다. 우리는 더 어두운 색에 둘러 쌓여 있는 색을 원래보다 더 밝게 인식하고, 상대적으로 더 밝은 색에 둘러쌓여 있는 색은 어둡게 인식한다.
+
+[그림5] 명도 대비(이미지 출처: http://dlegongbuwarac.edupia.com/xmlPrint.aspx?did=21250)
+
+
+!이미지5](https://user-images.githubusercontent.com/71231278/95024553-a3683300-06be-11eb-994b-76921c52dc42.jpg)
 
 
 ## 선예도(Sharpness)
