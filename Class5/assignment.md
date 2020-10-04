@@ -89,7 +89,7 @@
 https://terms.naver.com/entry.nhn?cid=40942&docId=1093128&categoryId=32238
 
 
-2)[네이버 지식백과] 콘트라스트 [contrast, contraste, Kontrast] (미술대사전(용어편), 1998., 한국사전연구사 편집부), 2020. 10. 04. 접속
+2) [네이버 지식백과] 콘트라스트 [contrast, contraste, Kontrast] (미술대사전(용어편), 1998., 한국사전연구사 편집부), 2020. 10. 04. 접속
 https://terms.naver.com/entry.nhn?docId=264120&cid=42635&categoryId=42635
 
 
