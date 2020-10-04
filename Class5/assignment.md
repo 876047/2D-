@@ -50,7 +50,7 @@
 
 아래는 질감대비의 예시 사진이다. 털이 부드러워보이는 인형이 표면이 매끄러운 잎들 사이에 있어 더욱 존재감이 두드러진다.  
 
-![이미지5-2]https://user-images.githubusercontent.com/71231278/95025391-6acb5800-06c4-11eb-8f56-6afb2b44644e.jpg
+![이미지5-2](https://user-images.githubusercontent.com/71231278/95025391-6acb5800-06c4-11eb-8f56-6afb2b44644e.jpg)
 
 
 ## 선예도(Sharpness)
@@ -82,7 +82,7 @@
 [그림9] 높은 첨예도, 높은 해상도(이미지 출처: https://www.cambridgeincolour.com/tutorials/sharpness.htm)
 
 
-주석
+## 주석
 
 
 1) [네이버 지식백과] 명도 [Value, 明度] (두산백과), 2020. 10. 04. 접속
@@ -96,7 +96,7 @@ https://terms.naver.com/entry.nhn?docId=264120&cid=42635&categoryId=42635
 3) [네이버 지식백과] 선예도 [sharpness, 鮮銳度] (영화사전, 2004. 9. 30., propaganda), 2020. 10. 04. 접속
 https://terms.naver.com/entry.nhn?cid=42617&docId=349459&categoryId=42617
 
-참고문헌
+## 참고문헌
 
 
 올페(2011), [올페의 사진 강좌] 쨍한 사진, 선예도, 해상도, 첨예도 그리고 MTF 차트에 대해서, 2020. 10. 04. 검색
