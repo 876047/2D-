@@ -2,11 +2,30 @@
 
 ##Ⅰ. Composition
 
-컴포지션이란 공간 또는 화면 형성을 위해 소재, 형태, 색채 등 모든 화면 요소를 배치하고 명암, 조화, 원근법 등을 고려하여 각 요소를 하나의 통일체로 완성하는 수단 [네이버 지식백과] 구도 [composition, 構圖] (영화사전, 2004. 9. 30., propaganda)
-을 말한다. ‘구성’ 등으로 치환할 수 있다. 
+컴포지션이란 공간 또는 화면 형성을 위해 소재, 형태, 색채 등 모든 화면 요소를 배치하고 명암, 조화, 원근법 등을 고려하여 각 요소를 하나의 통일체로 완성하는 수단
+을 말한다. ‘구성’ 등으로 치환할 수 있다.<sup>1  
 
 1. Center compostion
 중요한 피사체를 중심에 배치하는 구성을 말한다. 가장 흔히 사용되는 직관적인 구성 방식 이다. 웨스 앤더슨 감독이 자주 사용하였다. 
+
+
+![그림2](https://user-images.githubusercontent.com/71231278/95680909-dc9d2780-0c17-11eb-8a5e-f19b8d3ccfc7.jpg)
+
+
+[그림2] 《문라이즈 킹덤》(2012)(이미지 출처:https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/)
+
+
+![그림3](https://user-images.githubusercontent.com/71231278/95680912-deff8180-0c17-11eb-9390-7fa7b8d6f585.jpg)
+
+
+[그림3]《2001: 스페이스 오디세이》(1968)(이미지 출처:https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/)
+
+
+![그림4](https://user-images.githubusercontent.com/71231278/95680911-de66eb00-0c17-11eb-8516-a1ae9fda20e0.jpg)
+
+
+[그림4]《풀 메탈 재킷》(1987)(이미지 출처:https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/)
+
 
 2. Rule of third
 화면을 가로 세로로 삼등분하여 교차점에 중요한 피사체를 배치하는 구성이다. 안정적인 느낌을 준다. 화면을 2:1 로 분할하는 데 사용되기도 한다. 
@@ -37,5 +56,6 @@
 
  영화 화면 구성에서도 색은 중요한 요소 중 하나이다. 《벼랑 위의 포뇨》를 에시로 보자.  《벼랑 위의 포뇨》는 매우 화려하고 어린아이 같은 영화들 중 하나이다. 영화의 분위기에 맞게 다양한 밝은 색들이 능숙하게 조합되었다. 대담하게 사용된 색이 함께 어우러질 수 있도록 도와주는 색채에 내재된 부드러움이 느껴진다.https://moviesincolor.com/post/145269683743/i-got-to-make-some-color-palettes-for-the-best
  
-
-
+ 
+[각주]
+[네이버 지식백과] 구도 [composition, 構圖] (영화사전, 2004. 9. 30., propaganda)
