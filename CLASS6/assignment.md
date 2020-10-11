@@ -80,6 +80,22 @@
 화면 구성에 선적인 요소를 중심으로 사용할 수도 있다. 이를 선형 모티프라고 한다. 수직 구도, 수평구도, 대각선 구도 등이 자주 사용된다. 일반적으로 수직 구도는 엄숙하고 딱딱한 느낌, 수평 구도는 안정적인 느낌, 대각선 구도는 활동적인 느낌을 준다.  
 
 
+![그림12](https://user-images.githubusercontent.com/71231278/95681641-ff313f80-0c1b-11eb-94ee-c642d89a2ec9.jpg)
+
+
+[그림12]수직 구도(이미지 출처:https://photographyicon.com/line/)
+
+
+![그림13](https://user-images.githubusercontent.com/71231278/95681643-ffc9d600-0c1b-11eb-88b8-bceb0ac0785b.jpg)
+
+
+[그림13]수평 구도(이미지 출처:https://photographyicon.com/line/)
+
+
+![그림14}(https://user-images.githubusercontent.com/71231278/95681886-394f1100-0c1d-11eb-9e7b-858b37bc94ce.jpg)
+[그림14}대각선 구도(이미지 출처: http://www.elementsofcinema.com/cinematography/composition.html)
+
+
 ## Ⅱ. Pattern
 패턴이란 반복되는 무늬를 말한다. 반복되는 형태를 사용하여 다양한 효과를 꾀할 수 있다. 아래는 스크린에서 패턴이 사용된 예이다. 《스타 워즈 에피소드 6: 제다이의 귀환》에서 이 장면은 스톰 트루퍼들이 하나의 통일된 조직이라는 것을 보여주고, 그들의 순전한 수를 강조하는 효과를 냈다 https://venngage.com/blog/7-design-principles-star-wars-taught-us-infographic/
 . 
