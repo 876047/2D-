@@ -6,29 +6,48 @@
 을 말한다. ‘구성’ 등으로 치환할 수 있다.<sup>1  
 
 1. Center compostion
-중요한 피사체를 중심에 배치하는 구성을 말한다. 가장 흔히 사용되는 직관적인 구성 방식 이다. 웨스 앤더슨 감독이 자주 사용하였다. 
+중요한 피사체를 중심에 배치하는 구성을 말한다. 가장 흔히 사용되는 직관적인 구성 방식이다. 웨스 앤더슨 감독이 자주 사용하였다. 
 
 
 ![그림2](https://user-images.githubusercontent.com/71231278/95680909-dc9d2780-0c17-11eb-8a5e-f19b8d3ccfc7.jpg)
 
 
-[그림2] 《문라이즈 킹덤》(2012)(이미지 출처:https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/)
+[그림2] 《문라이즈 킹덤》(2012)(이미지 출처: https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/)
 
 
 ![그림3](https://user-images.githubusercontent.com/71231278/95680912-deff8180-0c17-11eb-9390-7fa7b8d6f585.jpg)
 
 
-[그림3]《2001: 스페이스 오디세이》(1968)(이미지 출처:https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/)
+[그림3]《2001: 스페이스 오디세이》(1968)(이미지 출처: https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/)
 
 
 ![그림4](https://user-images.githubusercontent.com/71231278/95680911-de66eb00-0c17-11eb-8516-a1ae9fda20e0.jpg)
 
 
-[그림4]《풀 메탈 재킷》(1987)(이미지 출처:https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/)
+[그림4]《풀 메탈 재킷》(1987)(이미지 출처: https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/)
 
 
 2. Rule of third
 화면을 가로 세로로 삼등분하여 교차점에 중요한 피사체를 배치하는 구성이다. 안정적인 느낌을 준다. 화면을 2:1 로 분할하는 데 사용되기도 한다. 
+
+![그림5](https://user-images.githubusercontent.com/71231278/95681268-cc864780-0c19-11eb-8e8b-ccb993eec8f2.jpg)
+
+
+[그림5]《셜록》(이미지 출처: https://taketones.com/blog/rule-of-thirds-in-filmmaking)
+
+
+![그림6](https://user-images.githubusercontent.com/71231278/95681270-cdb77480-0c19-11eb-8a0a-a2d4ec9bf16a.jpg)
+
+
+[그림6]《왕좌의 게임》(이미지 출처: https://taketones.com/blog/rule-of-thirds-in-filmmaking)
+
+
+
+![그림7](https://user-images.githubusercontent.com/71231278/95681298-efb0f700-0c19-11eb-94a0-93438b6df4a3.png)
+
+
+[그림7]《미션 임파서블 6》(2018)(이미지 출처: https://www.studiobinder.com/blog/what-is-the-rule-of-thirds/)
+
 
 3. Framing 
 화면 안에 다른 틀을 두어 연출하는 방식이다. 액자, 문틀, 거울 등 다양한 형태의 프레임으로 연출할 수 있다.
