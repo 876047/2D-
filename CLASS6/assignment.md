@@ -156,36 +156,55 @@
 ![그림21](https://user-images.githubusercontent.com/71231278/95682953-3d7e2d00-0c23-11eb-99f7-4095c28162ec.jpg)
 
 
-[그림21]샤이닝(1980)
+[그림21]《샤이닝》(1980)
 문의 크기가 화면 상에서 서로 다르게 보이는 것을 보고 거리의 차이가 있음을 알 수 있다.
 
 ![그림22}(https://user-images.githubusercontent.com/71231278/95682952-3c4d0000-0c23-11eb-8f96-d16c2c64a642.jpg)
 
 
-[그림22]블레이드 러너2049(2017)
+[그림22]《블레이드 러너》2049(2017)
 배경의 건물이 뿌옇게 보인다. 배경에 보이는 건물이 상당히 멀리 떨어져 있음을 알 수 있다. 
 
 
 ![그림23](https://user-images.githubusercontent.com/71231278/95682951-3b1bd300-0c23-11eb-8f95-bd17c51a1745.jpg)
 
 
-[그림23] 몬스터콜(2016)
+[그림23]《몬스터콜》(2016)
 같은 피사체이지만 거리에 따라 질감의 표현이 다르게 느껴지는 것을 알 수 있다. 가까울수록 자세하게 보인다. 
 
 
 ## Ⅳ. Color
 
  색은 사람의 눈에 가장 먼저 인식되는 시각 디자인의 요소다. 맨 처음으로 자극을 주어 그 존재를 드러낸다. 영화에서 의상의 색은 캐릭터를 표현함과 동시에 효과적인 비주얼을 창출한다. 색이 갖고 있는 고유한 의미와 상징은 각각의 캐릭터에 부여되어 직접 혹은 함축적으로 캐릭터를 설명한다.<sup>5
-
+ 
+ 
+ ![그림24](https://user-images.githubusercontent.com/71231278/95683210-c21d7b00-0c24-11eb-850c-57b638564542.jpg)
+ 
+ 
+[그림24]《벼랑 위의 포뇨》(2008)(이미지 출처: https://moviesincolor.com/post/145269683743/i-got-to-make-some-color-palettes-for-the-best)
+ 
+ 
  영화 화면 구성에서도 색은 중요한 요소 중 하나이다. 《벼랑 위의 포뇨》를 에시로 보자.  《벼랑 위의 포뇨》는 매우 화려하고 어린아이 같은 영화들 중 하나이다. 영화의 분위기에 맞게 다양한 밝은 색들이 능숙하게 조합되었다. 대담하게 사용된 색이 함께 어우러질 수 있도록 도와주는 색채에 내재된 부드러움이 느껴진다.<sup>6 아래의 링크에서 다양한 영화의 컬러파레트를 확인할 수 있다.
  
  
+ ![그림25](https://user-images.githubusercontent.com/71231278/95683358-b088a300-0c25-11eb-8077-7809448615ed.jpg)
  
+ 
+인투 더 와일드(2007)(이미지 출처: https://moviesincolor.com/image/92360760783)
+
+
+![그림26](https://user-images.githubusercontent.com/71231278/95683356-af577600-0c25-11eb-9499-1a270c359253.jpg)
+
+ 
+차이나타운(1974)(이미지 출처: https://moviesincolor.com/image/91894415128)
+
  
 [각주]
+
+
 1) [네이버 지식백과] 구도 [composition, 構圖] (영화사전, 2004. 9. 30., propaganda)
-2) https://venngage.com/blog/7-design-principles-star-wars-taught-us-infographic/
+2) 7 Essential Design Principles We Can Learn From Star Wars [Infographic], venngage, 2020년 10월 11일 접속, https://venngage.com/blog/7-design-principles-star-wars-taught-us-infographic/
 3) [네이버 지식백과] 심도 [depth of field, 深度] (영화사전, 2004. 9. 30., propaganda)
 4) [네이버 지식백과] 심도 [depth of field, 深度] (영화사전, 2004. 9. 30., propaganda)
 5) [네이버 지식백과] 색 (영화 의상, 2013. 2. 25., 김유선)
-6) https://moviesincolor.com/post/145269683743/i-got-to-make-some-color-palettes-for-the-best
+6)  movies in color, tumblr, 2020년 10월 11일 접속, https://moviesincolor.com/post/145269683743/i-got-to-make-some-color-palettes-for-the-best
