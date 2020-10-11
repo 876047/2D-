@@ -52,6 +52,30 @@
 3. Framing 
 화면 안에 다른 틀을 두어 연출하는 방식이다. 액자, 문틀, 거울 등 다양한 형태의 프레임으로 연출할 수 있다.
 
+![그림8](https://user-images.githubusercontent.com/71231278/95681507-2dfae600-0c1b-11eb-837f-285b8fc541a3.jpeg)
+
+
+[그림8]《화양연화》(2000)(이미지 출처: https://twitter.com/jonathantranter/status/672178019419734016)
+
+
+![그림9](https://user-images.githubusercontent.com/71231278/95681506-2d624f80-0c1b-11eb-830b-2b02962f924d.jpeg)
+
+
+[그림9]《화양연화》(2000)(이미지 출처: https://twitter.com/jonathantranter/status/672178019419734016)
+
+
+![그림10](https://user-images.githubusercontent.com/71231278/95681504-2cc9b900-0c1b-11eb-9444-0e27b0670bbd.jpeg)
+
+
+[그림10]《화양연화》(2000)(이미지 출처: https://twitter.com/jonathantranter/status/672178019419734016)
+
+
+![그림11](https://user-images.githubusercontent.com/71231278/95681501-2b988c00-0c1b-11eb-9969-059c4ebb5265.jpeg)
+
+
+[그림11]《화양연화》(2000)(이미지 출처: https://twitter.com/jonathantranter/status/672178019419734016)
+
+
 4. Linear motif
 화면 구성에 선적인 요소를 중심으로 사용할 수도 있다. 이를 선형 모티프라고 한다. 수직 구도, 수평구도, 대각선 구도 등이 자주 사용된다. 일반적으로 수직 구도는 엄숙하고 딱딱한 느낌, 수평 구도는 안정적인 느낌, 대각선 구도는 활동적인 느낌을 준다.  
 
