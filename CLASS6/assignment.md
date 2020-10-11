@@ -92,13 +92,21 @@
 [그림13]수평 구도(이미지 출처:https://photographyicon.com/line/)
 
 
-![그림14}(https://user-images.githubusercontent.com/71231278/95681886-394f1100-0c1d-11eb-9e7b-858b37bc94ce.jpg)
-[그림14}대각선 구도(이미지 출처: http://www.elementsofcinema.com/cinematography/composition.html)
+![그림14](https://user-images.githubusercontent.com/71231278/95681886-394f1100-0c1d-11eb-9e7b-858b37bc94ce.jpg)
+
+
+[그림14]대각선 구도(이미지 출처: http://www.elementsofcinema.com/cinematography/composition.html)
 
 
 ## Ⅱ. Pattern
-패턴이란 반복되는 무늬를 말한다. 반복되는 형태를 사용하여 다양한 효과를 꾀할 수 있다. 아래는 스크린에서 패턴이 사용된 예이다. 《스타 워즈 에피소드 6: 제다이의 귀환》에서 이 장면은 스톰 트루퍼들이 하나의 통일된 조직이라는 것을 보여주고, 그들의 순전한 수를 강조하는 효과를 냈다 https://venngage.com/blog/7-design-principles-star-wars-taught-us-infographic/
-. 
+패턴이란 반복되는 무늬를 말한다. 반복되는 형태를 사용하여 다양한 효과를 꾀할 수 있다. 아래는 스크린에서 패턴이 사용된 예이다.《스타 워즈 에피소드 6: 제다이의 귀환》에서 이 장면은 스톰 트루퍼들이 하나의 통일된 조직이라는 것을 보여주고, 그들의 순전한 수를 강조하는 효과를 냈다.<sup>2
+ 
+
+![그림15](https://user-images.githubusercontent.com/71231278/95681955-ad89b480-0c1d-11eb-8ddc-f067bc1747df.png)
+
+
+[그림15]《스타 워즈 에피소드 6: 제다이의 귀환》(1983)(이미지 출처: https://venngage.com/blog/7-design-principles-star-wars-taught-us-infographic/)
+
 
 ## Ⅲ. Depth 
 1. 피사계 심도 
@@ -117,4 +125,5 @@
  
  
 [각주]
-[네이버 지식백과] 구도 [composition, 構圖] (영화사전, 2004. 9. 30., propaganda)
+1) [네이버 지식백과] 구도 [composition, 構圖] (영화사전, 2004. 9. 30., propaganda)
+2) https://venngage.com/blog/7-design-principles-star-wars-taught-us-infographic/
