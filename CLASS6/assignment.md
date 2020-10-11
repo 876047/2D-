@@ -159,7 +159,7 @@
 [그림21]《샤이닝》(1980)
 문의 크기가 화면 상에서 서로 다르게 보이는 것을 보고 거리의 차이가 있음을 알 수 있다.
 
-![그림22}(https://user-images.githubusercontent.com/71231278/95682952-3c4d0000-0c23-11eb-8f96-d16c2c64a642.jpg)
+![그림22](https://user-images.githubusercontent.com/71231278/95682952-3c4d0000-0c23-11eb-8f96-d16c2c64a642.jpg)
 
 
 [그림22]《블레이드 러너》2049(2017)
@@ -190,13 +190,13 @@
  ![그림25](https://user-images.githubusercontent.com/71231278/95683358-b088a300-0c25-11eb-8077-7809448615ed.jpg)
  
  
-인투 더 와일드(2007)(이미지 출처: https://moviesincolor.com/image/92360760783)
+[그림25]《인투 더 와일드》(2007)(이미지 출처: https://moviesincolor.com/image/92360760783)
 
 
 ![그림26](https://user-images.githubusercontent.com/71231278/95683356-af577600-0c25-11eb-9499-1a270c359253.jpg)
 
  
-차이나타운(1974)(이미지 출처: https://moviesincolor.com/image/91894415128)
+[그림26]《차이나타운》(1974)(이미지 출처: https://moviesincolor.com/image/91894415128)
 
  
 [각주]
